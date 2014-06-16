@@ -1,0 +1,14 @@
+% ------------------------------------------------------------------------------
+% Function : Quaternion tools for Matlab
+% Project  : Tools
+% Author   : ETH (www.eth.ch), Janosch Nikolic
+% Version  : V01 02 APR 2014 Initial version
+% Comment  : 
+% Status   : 
+%
+% quaternions : Not in Hamilton conventions (hence, multiplications in the
+%                   common way: left-multiplication). Scalar part is last,
+%                   q = [qx; qy; qz; qw].
+%
+% ------------------------------------------------------------------------------
+
